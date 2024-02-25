@@ -1,0 +1,3 @@
+/home/michail/Method-Gaussa/build/CMakeFiles/main.dir
+/home/michail/Method-Gaussa/build/CMakeFiles/edit_cache.dir
+/home/michail/Method-Gaussa/build/CMakeFiles/rebuild_cache.dir
